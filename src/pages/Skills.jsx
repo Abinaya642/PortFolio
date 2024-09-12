@@ -53,12 +53,12 @@ export const Skills = () => {
         <h2 className="text-3xl text-white font-semibold">
           Want to see these skills in action?
         </h2>
-        <a
+        {/* <a
           href="#projects"
           className="mt-6 inline-block bg-white text-purple-600 font-bold py-3 px-8 rounded-full shadow-lg hover:bg-gray-100 transition-colors duration-300"
         >
           View My Projects
-        </a>
+        </a> */}
       </section>
     </div>
   )
