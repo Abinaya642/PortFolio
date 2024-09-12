@@ -48,7 +48,7 @@ export const Skills = () => {
           ))}
         </div>
       </section>
-{/* 
+
       <section className={`${Theme === "light" ? 'bg-purple-500' : 'bg-purple-600'} py-12 mt-8 text-center`}>
         <h2 className="text-3xl text-white font-semibold">
           Want to see these skills in action?
@@ -59,7 +59,7 @@ export const Skills = () => {
         >
           View My Projects
         </a>
-      </section> */}
+      </section>
     </div>
   )
 }
