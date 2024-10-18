@@ -161,7 +161,7 @@ export const Contact = () => {
               <FontAwesomeIcon icon={faGithub} />
             </a>
             <a
-              href="https://abinaya34.netlify.app"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-indigo-300 transition-transform transform hover:scale-110"

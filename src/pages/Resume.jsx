@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import resume from '../assets/Resume.jpg'
-import Abinaya from '../assets/Abinaya-Resume.pdf'
+import Abinaya from '../assets/Abinaya.pdf'
 import theme_pattern from '../assets/theme_pattern.svg'
 import { ThemeContext } from '../ThemeContext'
 
